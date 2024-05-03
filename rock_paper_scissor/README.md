@@ -1,6 +1,8 @@
 ## ROCK PAPER SCISSOR
 
-<img src="/rock_paper_scissor/screenshot" width="720">
+<p align="center">
+ <img src="/rock_paper_scissor/screenshot.png" width="720">
+</p>
 
 ## Start round
 
