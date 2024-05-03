@@ -1,7 +1,7 @@
 ## PONG
 
 This is one of my first games
-<img src="/screenshot" width="720">
+<img src="/pong/screenshot" width="720">
 
 ## Start game
 
