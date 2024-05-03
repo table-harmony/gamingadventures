@@ -1,7 +1,7 @@
 ## Galaga
 
 <p align="center">
- <img src="/space_ship1/screenshot.png" width="720">
+ <img src="/galaga/screenshot.png" width="720">
 </p>
 
 ## Movements

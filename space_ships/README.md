@@ -1,7 +1,7 @@
 ## Space ship for TWO
 
 <p align="center">
- <img src="/space_ship1/screenshot.png" width="720">
+ <img src="/space_ships/screenshot.png" width="720">
 </p>
 
 ## Movements
