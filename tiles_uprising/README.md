@@ -1,5 +1,9 @@
 # Tiles Uprising
 
+<p align="center">
+ <img src="/tiles_uprising/screenshot.png" width="720">
+</p>
+
 ## The main menu
 
 In the main menu you select the game's difficulty by landing on the difficuly you want and hitting play
